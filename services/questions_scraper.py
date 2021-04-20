@@ -1,11 +1,8 @@
 from selenium import webdriver
 import re
 from math import ceil
-import itertools
-import csv
 
 chrome_driver = '/home/kevin/development/chromedriver'
-
 
 class AmzQuestionsScraper:
     def __init__(self, asin: str):
