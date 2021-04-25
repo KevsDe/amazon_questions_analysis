@@ -1,4 +1,4 @@
-
+import re
 def string_row_finder(df_row, text: list):
     """Find the index for rows based in regular expressions"""
     for txt in text:
