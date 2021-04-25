@@ -4,6 +4,7 @@ from math import ceil
 
 chrome_driver = '/home/kevin/development/chromedriver'
 
+
 class AmzQuestionsScraper:
     def __init__(self, asin: str):
         self.asin = asin
