@@ -3,7 +3,7 @@
     * https://www.amazon.co.uk/
     
 ## About it
-Amazon has become an invaluable source of knowledge, and the user questions could be a great option to find new products ideas or ways to improve current products, using Selenium 866 reviews were scraped of 15 products from 
+Amazon has become an invaluable source of knowledge, and the user questions could be a great option to find new products ideas or ways to improve current products, using Selenium 866 questions were scraped of 15 products from 
 Amazon.co.uk, the analysis was made for "Collagen Supplements" and the key phrases were processed using Azure Cognitive Services.
 
 ## Results
